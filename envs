@@ -1,3 +1,7 @@
+[dev]
+
+[prod]
+
 [envs:children]
 dev
 prod
