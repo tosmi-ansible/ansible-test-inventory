@@ -1,3 +1,6 @@
+[ansible_tower]
+tower
+
 [dev]
 
 [prod]
