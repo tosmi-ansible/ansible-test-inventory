@@ -1,0 +1,17 @@
+---
+all:
+  children:
+    tower:
+      hosts:
+        tower01t:
+        tower02t:
+        tower03t:
+    automationhub:
+      hosts:
+        towerhub01t:
+    isolated_group_restrictedzone:
+      hosts:
+        toweriso01t:
+    database:
+      hosts:
+        towerdb01t:
