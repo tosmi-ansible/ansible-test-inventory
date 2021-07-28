@@ -3,15 +3,15 @@ all:
   children:
     tower:
       hosts:
-        tower01t:
-        tower02t:
-        tower03t:
+        tower01:
+        tower02:
+        tower03:
     automationhub:
       hosts:
-        towerhub01t:
+        hub:
     isolated_group_restrictedzone:
       hosts:
-        toweriso01t:
+        isolated:
     database:
       hosts:
-        towerdb01t:
+        pgsql:
