@@ -1,0 +1,7 @@
+---
+all:
+  children:
+    production:
+      hosts:
+        prod01:
+        prod02:

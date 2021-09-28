@@ -1,0 +1,7 @@
+---
+all:
+  children:
+    testing:
+      hosts:
+        test01:
+        test02:
