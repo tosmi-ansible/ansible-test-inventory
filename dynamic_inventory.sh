@@ -1,5 +1,7 @@
 #!/bin/bash
 
+echo "$ENVIRONMENT"
+
 cat <<EOF
 {
     "group001": {
