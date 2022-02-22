@@ -1,4 +1,6 @@
 ---
 all:
-  hosts:
-    box01:
+  children:
+    foreman_hostcollection_boxes:
+      hosts:
+        box01:
