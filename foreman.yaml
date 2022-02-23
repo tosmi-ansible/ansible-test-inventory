@@ -4,3 +4,5 @@ user: admin
 password: redhat
 use_reports_api: yes
 want_hostcollections: yes
+hostnames:
+  - name.split('.')[0]
