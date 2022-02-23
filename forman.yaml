@@ -1,0 +1,6 @@
+plugin: redhat.satellite.foreman
+url: https://satellite.lan.stderr.at
+user: admin
+password: redhat
+use_reports_api: yes
+want_hostcollections: yes
